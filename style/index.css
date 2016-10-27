@@ -1,0 +1,24 @@
+body{
+	margin-top:80px;
+}
+.zxgx{
+	margin-bottom: 15px;
+}
+#shuhuifooter{
+	height:100px;
+	background: #000;
+}
+.tophome{
+	position: fixed;
+	width:40px;
+	height: 40px;
+	background: #E7E7E7;
+	z-index:50 ;
+	top:80%;
+	left:95%;
+	border-radius:4px;
+}
+/*.shhh-img{
+	width:200px;
+	height:280px;
+}*/
